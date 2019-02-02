@@ -1,0 +1,57 @@
+body {
+
+  font-family:  "Lato";
+  font-size: 18px;
+}
+
+.button-remove {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.button-up {
+  background-color: lightblue; /* lightblue */
+  border: none;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.button-down {
+  background-color: purple; /* Purple */
+  border: none;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.button-add {
+  background-color: orange; /* orange */
+  border: none;
+  color: white;
+  margin-left: 50px;
+  margin-bottom: 10px;
+  padding: 7px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
